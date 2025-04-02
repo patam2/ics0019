@@ -1,2 +1,7 @@
 # Virtual environment files
 .venv/
+
+dist/
+build/
+
+.env
